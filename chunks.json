@@ -1,0 +1,10 @@
+[
+  {
+    "doc": "sample1.txt",
+    "text": "Python is a popular programming language created by Guido van Rossum. \nIt is used for web development, data analysis, artificial intelligence, and automation. \nPython emphasizes code readability with its use of significant indentation."
+  },
+  {
+    "doc": "sample2.txt",
+    "text": "The Amazon Elastic Kubernetes Service (EKS) is a managed Kubernetes service by AWS. \nIt helps users run Kubernetes without needing to manage their own control plane or nodes. \nEKS can deploy containerized applications easily and securely at scale."
+  }
+]
