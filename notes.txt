@@ -1,1 +1,5 @@
 NVIDIA_api_key = "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"
+
+NIM llama-3.2-nemoretriever-300m-embed-v2 API = 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
+
+NIM nv-embedqa-e5-v5 API = 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
